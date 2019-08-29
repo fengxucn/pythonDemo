@@ -1,5 +1,4 @@
 # pythonDemo
 
-https://hub.gke.mybinder.org/user/fengxucn-pythondemo-rs6twade/notebooks/numpyNote.ipynb
+https://mybinder.org/v2/gh/fengxucn/pythonDemo.git/master
 
-https://hub.gke.mybinder.org/user/fengxucn-pythondemo-rs6twade/tree
